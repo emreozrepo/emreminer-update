@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.0-beta",
+  "versionCode": 5,
+  "versionName": "1.2.1-beta",
   "apkUrl": "http://92.249.61.142:8080/EmreMiner-beta.apk",
-  "notes": "Yeni: oyun-ici auto-update.\nDuzeltmeler: panel her tikta kapaniyordu, chest gear reward'da gorunmuyordu, gear cantasi kaydirilabilir oldu."
+  "notes": "Duzeltmeler: 'guncel surumde de guncelle uyarisi' bug'i giderildi, popup yazi tasmasi giderildi."
 }
