@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.1-beta",
+  "versionCode": 6,
+  "versionName": "1.3.0-beta",
   "apkUrl": "http://92.249.61.142:8080/EmreMiner-beta.apk",
-  "notes": "Duzeltmeler: 'guncel surumde de guncelle uyarisi' bug'i giderildi, popup yazi tasmasi giderildi."
+  "notes": "Surukle-kaz imleci + sureli kazma, tas HP sayisi, pet AoE dairesi, boss 60sn timer, yeni SAT paneli, kaydirilabilir CRAFT + animasyonlu ikon, her panele (i) yardim, offline gold fix, denge ~-35%."
 }
