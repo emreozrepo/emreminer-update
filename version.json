@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.0-beta",
+  "versionCode": 8,
+  "versionName": "1.4.1-beta",
   "apkUrl": "http://92.249.61.142:8080/EmreMiner-beta.apk",
-  "notes": "Online: Google + Misafir girisi, bulut kayit (cloud save) + global lider tablosu (rank), Hesap paneli, isim secme. Gorsel: tum menu ikonlari yenilendi + temaya uygun, yeni level/gorev/boss barlari, PETS evrim merdiveni."
+  "notes": "1.4.1 UI duzeltme: cift gorunum giderildi (level/quest barlari sadelesti), panel arka plani opak (sahne sizmasi gitti), pet evrim merdiveni buyutuldu + kilit koseye, menude cift 'Gorevler' ayrildi (Gundelik). Online: Google + Misafir girisi, bulut kayit, global rank, Hesap paneli; tum menu ikonlari yeni."
 }
