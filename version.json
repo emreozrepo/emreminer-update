@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.4.6-beta",
+  "versionCode": 14,
+  "versionName": "1.4.7-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.4.6: Animasyonlu lav level bar, OTO kat (oto-ilerle), pet gri halka kaldirildi, prestige shard dengesi, RESET'te bulut kaydi da temizleniyor (guest geri yuklemiyor)."
+  "notes": "1.4.7: OTO butonu gem ustune binmiyor (CEVHER kaldirildi, OTO o slotta; kata dokununca cevher rehberi). Alt barda CANTA yerine animasyonlu URET/CRAFT; menude craft animasyonlu, Canta menuye tasindi."
 }
