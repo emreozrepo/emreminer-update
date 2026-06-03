@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.4-beta",
+  "versionCode": 12,
+  "versionName": "1.4.5-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.4.4: Gear PARCALAMA - kullanilmayan techizati nadirligine gore ham cevhere cevir (Common->Tindull ... Legendary->Runite); her gear satirinda Parcala + Hepsini Parcala. Onceki: cift-UI fix, guncelleme-takilma fix, panel opak, pet merdiveni, online (Google/Misafir/bulut/rank)."
+  "notes": "1.4.5: Gear Parcala butonlari hizalandi (satir icine alindi). Gear parcalama (nadirlige gore cevher), cift-UI fix, guncelleme-takilma fix, online (Google/Misafir/bulut/rank)."
 }
