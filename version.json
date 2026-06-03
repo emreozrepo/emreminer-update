@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3.0-beta",
+  "versionCode": 7,
+  "versionName": "1.4.0-beta",
   "apkUrl": "http://92.249.61.142:8080/EmreMiner-beta.apk",
-  "notes": "Surukle-kaz imleci + sureli kazma, tas HP sayisi, pet AoE dairesi, boss 60sn timer, yeni SAT paneli, kaydirilabilir CRAFT + animasyonlu ikon, her panele (i) yardim, offline gold fix, denge ~-35%."
+  "notes": "Online: Google + Misafir girisi, bulut kayit (cloud save) + global lider tablosu (rank), Hesap paneli, isim secme. Gorsel: tum menu ikonlari yenilendi + temaya uygun, yeni level/gorev/boss barlari, PETS evrim merdiveni."
 }
