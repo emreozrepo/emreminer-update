@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.4.3-beta",
+  "versionCode": 11,
+  "versionName": "1.4.4-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.4.3: 'cift UI' bugu COZULDU (chip 9-slice border'i bozuktu - gold/gem, quest bar, pet hucreleri arka planlari artik tek). Onceki duzeltmeler de dahil: guncelleme-takilma fix, panel opak, pet merdiveni buyuk + kose kilit, menu ikonlari, online (Google/Misafir/bulut/rank)."
+  "notes": "1.4.4: Gear PARCALAMA - kullanilmayan techizati nadirligine gore ham cevhere cevir (Common->Tindull ... Legendary->Runite); her gear satirinda Parcala + Hepsini Parcala. Onceki: cift-UI fix, guncelleme-takilma fix, panel opak, pet merdiveni, online (Google/Misafir/bulut/rank)."
 }
