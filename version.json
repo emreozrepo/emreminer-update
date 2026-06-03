@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.5-beta",
+  "versionCode": 13,
+  "versionName": "1.4.6-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.4.5: Gear Parcala butonlari hizalandi (satir icine alindi). Gear parcalama (nadirlige gore cevher), cift-UI fix, guncelleme-takilma fix, online (Google/Misafir/bulut/rank)."
+  "notes": "1.4.6: Animasyonlu lav level bar, OTO kat (oto-ilerle), pet gri halka kaldirildi, prestige shard dengesi, RESET'te bulut kaydi da temizleniyor (guest geri yuklemiyor)."
 }
