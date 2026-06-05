@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.5.4-beta",
+  "versionCode": 22,
+  "versionName": "1.5.5-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.5.4: Tindull tasi artik ANIMASYONLU yer-alti boss'u (kaya golem). XP orani %20 kisildi."
+  "notes": "1.5.5: Yer-alti boss'lari SADECE Warden'da (Tindull golem F10, Copper bocek F20) - buyuk, yavas yumruk + shake. Normal taslar cevher. Gem store prestige'de sifirlaniyor + UI'da carpan. XP -%20. Prestige level'i de sifirliyor + onay pop-up'i."
 }
