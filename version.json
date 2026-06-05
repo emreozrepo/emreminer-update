@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.5.2-beta",
+  "versionCode": 20,
+  "versionName": "1.5.3-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.5.2: Menu kademeli geri navigasyon - panel -> menu -> ana ekran. X butonu, panel disina dokunma ve telefon geri tusu artik tek kademe geri gider."
+  "notes": "1.5.3: Pet Blast en yakin taslara vuruyor, aktif buff'lar acilir liste (dropdown), menu butonlari ortalandi, Reset Progress artik gear+daily'yi de siliyor."
 }
