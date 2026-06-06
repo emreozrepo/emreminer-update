@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.5.17-beta",
+  "versionCode": 35,
+  "versionName": "1.5.18-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.5.17: Siralama artik GERCEK online! Firebase Realtime Database (REST) uzerinden skorlar yaziliyor/okunuyor. Sahte botlar kaldirildi; gercek oyuncular kat/gold ile siralaniyor. Editor disi tum cihazlar ayni tabloyu paylasir."
+  "notes": "1.5.18: Siralama artik ULASILAN EN DERIN KAT'a (lifetime) gore. Prestige yapinca rank katin DUSMUYOR - rekorun kalir, tabloda ancak rekorunu kirinca yukselirsin."
 }
