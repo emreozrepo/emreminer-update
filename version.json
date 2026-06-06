@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.5.7-beta",
+  "versionCode": 25,
+  "versionName": "1.5.8-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.5.7: Rally butonunun ustune hizli Items butonu (menudeki ikonla, envanteri acar)."
+  "notes": "1.5.8: XP orani bir %20 daha kisildi (toplam -%36). Leveling daha yavas, kat ilerlemesiyle daha uyumlu."
 }
