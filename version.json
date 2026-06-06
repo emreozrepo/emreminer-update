@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.5.16-beta",
+  "versionCode": 34,
+  "versionName": "1.5.17-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.5.16: Gorevler tek panelde 3 sekme oldu - Gunluk / Haftalik / Tek Seferlik, hepsi liste seklinde. Haftalik gorevler eklendi. Tek seferlik gorevler tum liste halinde (biten/aktif/kilitli)."
+  "notes": "1.5.17: Siralama artik GERCEK online! Firebase Realtime Database (REST) uzerinden skorlar yaziliyor/okunuyor. Sahte botlar kaldirildi; gercek oyuncular kat/gold ile siralaniyor. Editor disi tum cihazlar ayni tabloyu paylasir."
 }
