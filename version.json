@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.5.6-beta",
+  "versionCode": 24,
+  "versionName": "1.5.7-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.5.6 (denge): Base damage yukseldi (base 10->16, Pickaxe x1.26/lvl + maliyet 1.5->1.44 derinde alinabilir). Mining Tonic'ler hafif kisildi (x3.0->x2.1). Item olmadan da ilerlersin, item bonus olur."
+  "notes": "1.5.7: Rally butonunun ustune hizli Items butonu (menudeki ikonla, envanteri acar)."
 }
