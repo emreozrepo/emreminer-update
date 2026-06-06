@@ -1,0 +1,17 @@
+{
+  "configVersion": 1,
+  "ore.hpGrowth": 1.16,
+  "ore.valueGrowth": 1.16,
+  "ore.xpGrowth": 1.15,
+  "ore.xpRate": 0.64,
+  "stat.miningPowerBase": 16,
+  "stat.droneAttackBase": 0.8,
+  "upg.pickaxe.baseCost": 15,
+  "upg.pickaxe.costGrowth": 1.44,
+  "upg.pickaxe.perLevel": 0.26,
+  "buff.duration": 180,
+  "buff.mine1": 1.3,
+  "buff.mine2": 1.45,
+  "buff.mine3": 1.7,
+  "buff.mine4": 2.1
+}
