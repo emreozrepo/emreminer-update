@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.5.12-beta",
+  "versionCode": 30,
+  "versionName": "1.5.13-beta",
   "apkUrl": "https://github.com/emreozrepo/emreminer-update/releases/download/beta/EmreMiner-beta.apk",
-  "notes": "1.5.12: Atolye kaldirildi. Yukselis ilk prestige/kat 50 sonrasi acilir. Menudeki Sat artik secim panelini aciyor. Pet maliyetinde sahip olunan cevher adedi gosteriliyor. Kazma ikon/ad tutarliligi."
+  "notes": "1.5.13: Yetenekler butonlari artik tasmıyor. Menu cantasinda item sayi rozetleri. Boss can bari guzellestirildi (HP kalp ikonu + cam efekti). Evrimde SIMDI arkasindaki buton sizmasi duzeltildi."
 }
